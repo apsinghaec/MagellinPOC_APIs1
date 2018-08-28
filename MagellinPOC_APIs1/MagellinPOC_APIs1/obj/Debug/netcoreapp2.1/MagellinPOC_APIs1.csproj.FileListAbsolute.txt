@@ -1,0 +1,11 @@
+C:\CodeRepo\MagellinPOC_APIs1\MagellinPOC_APIs1\MagellinPOC_APIs1\bin\Debug\netcoreapp2.1\MagellinPOC_APIs1.deps.json
+C:\CodeRepo\MagellinPOC_APIs1\MagellinPOC_APIs1\MagellinPOC_APIs1\bin\Debug\netcoreapp2.1\MagellinPOC_APIs1.runtimeconfig.json
+C:\CodeRepo\MagellinPOC_APIs1\MagellinPOC_APIs1\MagellinPOC_APIs1\bin\Debug\netcoreapp2.1\MagellinPOC_APIs1.runtimeconfig.dev.json
+C:\CodeRepo\MagellinPOC_APIs1\MagellinPOC_APIs1\MagellinPOC_APIs1\bin\Debug\netcoreapp2.1\MagellinPOC_APIs1.dll
+C:\CodeRepo\MagellinPOC_APIs1\MagellinPOC_APIs1\MagellinPOC_APIs1\obj\Debug\netcoreapp2.1\MagellinPOC_APIs1.csproj.CoreCompileInputs.cache
+C:\CodeRepo\MagellinPOC_APIs1\MagellinPOC_APIs1\MagellinPOC_APIs1\obj\Debug\netcoreapp2.1\MagellinPOC_APIs1.RazorAssemblyInfo.cache
+C:\CodeRepo\MagellinPOC_APIs1\MagellinPOC_APIs1\MagellinPOC_APIs1\obj\Debug\netcoreapp2.1\MagellinPOC_APIs1.RazorAssemblyInfo.cs
+C:\CodeRepo\MagellinPOC_APIs1\MagellinPOC_APIs1\MagellinPOC_APIs1\obj\Debug\netcoreapp2.1\MagellinPOC_APIs1.AssemblyInfoInputs.cache
+C:\CodeRepo\MagellinPOC_APIs1\MagellinPOC_APIs1\MagellinPOC_APIs1\obj\Debug\netcoreapp2.1\MagellinPOC_APIs1.AssemblyInfo.cs
+C:\CodeRepo\MagellinPOC_APIs1\MagellinPOC_APIs1\MagellinPOC_APIs1\obj\Debug\netcoreapp2.1\MagellinPOC_APIs1.RazorTargetAssemblyInfo.cache
+C:\CodeRepo\MagellinPOC_APIs1\MagellinPOC_APIs1\MagellinPOC_APIs1\obj\Debug\netcoreapp2.1\MagellinPOC_APIs1.csprojAssemblyReference.cache
